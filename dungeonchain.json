@@ -13,11 +13,5 @@
       "website": "https://www.cryptodungeon.org",
       "whitepaper": "https://docs.google.com/document/d/1Fb6ZR6FEbXJhJlAAxclQl-WYLz2HpOvZf5c8cdBdC7Q/edit?usp=sharing    "
     },
-    "widget": {
-      "title": "Check out our website for more information",
-      "description": "Learn more about Crypto Dungeon and Dungeon Chain as well as our upcoming mobile game Kosmic Quest.",
-      "buttonText": "Learn more",
-      "buttonUrl": "https://www.cryptodungeon.org"
-    }
   }
 }
